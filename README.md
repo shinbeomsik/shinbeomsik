@@ -1,3 +1,9 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=00BFFF&height=150&section=header&text=ShinBeomSik&fontSize=90)
+  
+</div>
+
 
 
 <div align=center><h2>  Tech Stack  </h2></div>
@@ -12,3 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinbeomsik&layout=compact)](https://github.com/shinbeomsik/shinbeomsik)
 
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinbeomsik&theme=tokyo-night)](https://github.com/shinbeomsik/github-readme-activity-graph)
