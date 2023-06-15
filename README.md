@@ -14,10 +14,10 @@
 
 <div align="center">
   
-![shinbeomsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinbeomsik&show_icons=true&theme=radical)
+![shinbeomsik's GitHub stats](https://github-readme-stats-phi-ebon-86.vercel.app/api?username=shinbeomsik&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinbeomsik&layout=compact)](https://github.com/shinbeomsik/shinbeomsik)
 
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinbeomsik&theme=tokyo-night)](https://github.com/shinbeomsik/github-readme-activity-graph)
+[![shinbeomsik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinbeomsik&theme=tokyo-night)](https://github.com/shinbeomsik/github-readme-activity-graph)
