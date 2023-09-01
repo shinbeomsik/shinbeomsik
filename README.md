@@ -14,7 +14,7 @@
 
 <div align="center">
   
-![shinbeomsik's GitHub stats](https://github-readme.vercel.app/api?username=shinbeomsik&show_icons=true&theme=radical)
+![shinbeomsik's GitHub stats](https://github-readme-stats-78vje9o6n-shinbeomsik.vercel.appl.app/api?username=shinbeomsik&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-phi-ebon-86.vercel.app/api/top-langs/?username=shinbeomsik&layout=compact)](https://github.com/shinbeomsik/shinbeomsik)
 
 </div>
