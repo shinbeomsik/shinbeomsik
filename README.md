@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinbeomsik)](https://github.com/shinbeomsik/github-readme-stats)
-[![Top Langs](https://github-readme-stats-phi-ebon-86.vercel.app/api/top-langs/?username=shinbeomsik&layout=compact)](https://github.com/shinbeomsik/shinbeomsik)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinbeomsik)](https://github.com/shinbeomsik/github-readme-stats)
 
 </div>
 
